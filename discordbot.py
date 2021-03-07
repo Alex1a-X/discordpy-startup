@@ -19,7 +19,7 @@ async def ping(ctx):
     
 @bot.command()
 async def info(ctx):
-    await ctx.send('discordで主に活動している キチゲェ 紳士たちの集まりです。')
+    await ctx.send('discordで主に活動している キチゲェw 紳士たちの集まりです。')
 
 
 bot.run(token)
