@@ -18,7 +18,7 @@ async def ping(ctx):
     await ctx.send('pong')
     
 @bot.command()
-async def このサーバーについて(ctx):
+async def info(ctx):
     await ctx.send('discordで主に活動している キチゲェ 紳士たちの集まりです。')
 
 
